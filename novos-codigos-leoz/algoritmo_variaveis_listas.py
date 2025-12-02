@@ -1,6 +1,6 @@
 # Algoritmo: Gerenciador de Notas de Alunos
 # Demonstra conceitos de variáveis e listas em Python
-
+# Teste
 # ========== VARIÁVEIS ==========
 nome_escola = "Escola de Programação"
 ano_letivo = 2024
